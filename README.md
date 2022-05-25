@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TR-Wolf, that is Thomas Russell Wolf
-- 👀 I’m interested in simulation applications, and the betterment of virtual education.
+- 👀 I’m interested in applications development, and the betterment of virtual education.
 - 🌱 I’m currently learning more skills in React while doing Java and Fortran Development professionally.
 - 💞️ I’m looking to collaborate on intriguing and useful projects.
 - 📫 Send me a message on one of my various socials seen at https://www.thomasrwolf.com/
